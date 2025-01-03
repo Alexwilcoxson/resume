@@ -1,7 +1,4 @@
 ---
-title: "Alex Wilcoxson"
-author: Alex Wilcoxson
-date: January 2, 2025
 geometry: "margin=2cm"
 output: pdf_document
 ---
