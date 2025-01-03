@@ -1,6 +1,6 @@
 # Alex Wilcoxson
 
-###### [ [github](https://github.com/alexwilcoxson) ] . [ [github (Relativity)](https://github.com/alexwilcoxson-rel) ] . [ [linkedin](https://linkedin.com/in/alexwilcoxson) ] . [ [alexwilcoxson@me.com](mailto:alexwilcoxson@me.com) ] . [ 919 917 4451 ]
+###### [ [github](https://github.com/alexwilcoxson) ] . [ [github (work)](https://github.com/alexwilcoxson-rel) ] . [ [linkedin](https://linkedin.com/in/alexwilcoxson) ] . [ [alexwilcoxson@me.com](mailto:alexwilcoxson@me.com) ] . [ 919 917 4451 ]
 
 ### Software engineer with a background in cloud native distributed systems and emerging database technologies
 
@@ -14,38 +14,47 @@
 ```performance```
 ```devops```
 
-**Programming:** Rust, Python, C#
-**Data:** Delta Lake, Parquet, Arrow, DataFusion, Spark, SQL Server
-**Transport:** gRPC, Arrow Flight
-**Orchestration:** Kubernetes, Prefect
+**Programming:** Rust, Python, C#  
+**Data Engineering:** Delta Lake, Parquet, Arrow, DataFusion, Spark, Kafka, SQL Server  
+**Transport:** gRPC, Arrow Flight  
+**Orchestration:** Kubernetes, Prefect  
 **DevOps**: git, GitHub, JIRA, OpenTelemetry
 
 ## Experience
 
 ### Staff Software Engineer, Relativity
-March 2021 - current, remote
+March 2021 - current, Chicago, IL, remote
 
-todo
+- Architecting the next-generation data storage platform for Relativity's cloud products. Enabling us to scale compute independently from cloud native storage, and leverage columnar storage for compression and higher throughput of OLAP and batch operations.
+- Built Arrow Flight gRPC service for ingestion and query with Delta Tables. The service uses DataFusion for queries and Delta Lake Rust library for writes.
+- Contributed to open source projects in the Rust Delta Lake and Arrow ecosystem.
+- Built PySpark Kubernetes job for SVM training and inference to power successor to Relativity Active Learning.
 
 ### Lead Software Engineer, Relativity
 October 2018 - March 2021, Chicago, IL
 
-todo
+- Led one of the teams that transitioned Relativity Server's analytics features to cloud-based RelativityOne.
+- This project involved refactoring a monolithic text analytics, conceptual search engine, and SVM classification service into many containerized applications.
+- Our team supported RelativityOne's integration with the legacy and new solution and handled all data migration from proprietary binary serialization format into Avro.
 
 ### Senior Software Engineer, Relativity
 April 2016 - October 2018, Chicago, IL
 
-todo
+- Led one of the teams building Relativity Active Learning, a tool-assisted review feature based on SVM classification.
+- Our team was responsible for orchestrating data cleansing, preprocessing, tokenization, and count vectorization.
+- Additionally, we had to collect inference results and efficiently persist back into SQL Server.
 
 ### Advanced Software Engineer, Relativity
 April 2013 - April 2016, Chicago, IL
 
-todo
+- Built new features into Relativity's first tool-assisted review feature
+- Enhanced Relativity's integration with a vendor's conceptual search engine, which was acquired eventually
+- Created circle pack cluster visualization frontend component
 
 ### Software Engineer, Cisco Systems
 January 2011 - April 2013, Raleigh-Durham, NC
 
-todo
+- Supported Cisco's operating system, IOS
 
 ## Talks
 
