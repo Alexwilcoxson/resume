@@ -31,8 +31,6 @@ January 2011 - April 2013, Raleigh-Durham, NC
 ### [Semi-Structured Communication Data with Delta Lake, Data + AI Summit 2024](https://youtu.be/cHVUO_IjZ8Y?si=eMsIUZnaxHaj3mOy)
 June 2024, San Francisco, CA
 
-- https://youtu.be/cHVUO_IjZ8Y?si=eMsIUZnaxHaj3mOy
-
 ## Education
 
 ### Bachelor of Science, Computer Science, Purdue University
