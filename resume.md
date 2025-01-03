@@ -1,8 +1,3 @@
----
-geometry: "margin=2cm"
-output: pdf_document
----
-
 # Alex Wilcoxson
 
 ###### [ [github](https://github.com/alexwilcoxson) ] . [ [github (work)](https://github.com/alexwilcoxson-rel) ] . [ [linkedin](https://linkedin.com/in/alexwilcoxson) ] . [ [alexwilcoxson@me.com](mailto:alexwilcoxson@me.com) ] . [ 919 917 4451 ]
