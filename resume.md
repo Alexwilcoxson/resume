@@ -39,26 +39,18 @@ October 2018 - March 2021, Chicago, IL
 ### Senior Software Engineer, Relativity
 April 2016 - October 2018, Chicago, IL
 
-- Led one of the teams building Relativity Active Learning, a tool-assisted review feature based on SVM classification.
-- Our team was responsible for orchestrating data cleansing, preprocessing, tokenization, and count vectorization.
-- Additionally, we had to collect inference results and efficiently persist back into SQL Server.
-
 ### Advanced Software Engineer, Relativity
 April 2013 - April 2016, Chicago, IL
-
-- Built new features into Relativity's first tool-assisted review feature
-- Enhanced Relativity's integration with a vendor's conceptual search engine, which was acquired eventually
-- Created circle pack cluster visualization frontend component
 
 ### Software Engineer, Cisco Systems
 January 2011 - April 2013, Raleigh-Durham, NC
 
-- Supported Cisco's operating system, IOS
-
 ## Talks
 
-### [Semi-Structured Communication Data with Delta Lake and Microservices, Data + AI Summit 2024](https://youtu.be/cHVUO_IjZ8Y?si=eMsIUZnaxHaj3mOy)
+### [Semi-Structured Communication Data with Delta Lake, Data + AI Summit 2024](https://youtu.be/cHVUO_IjZ8Y?si=eMsIUZnaxHaj3mOy)
 June 2024, San Francisco, CA
+
+- https://youtu.be/cHVUO_IjZ8Y?si=eMsIUZnaxHaj3mOy
 
 ## Education
 
