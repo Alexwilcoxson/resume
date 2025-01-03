@@ -25,7 +25,7 @@
 ### Staff Software Engineer, Relativity
 March 2021 - current, Chicago, IL, remote
 
-- Architecting the next-generation data storage platform for Relativity's cloud products, which enables us to scale compute independently from cloud native storage, and leverage columnar storage for compression and higher throughput for OLAP and batch operations. This project enables Relativity to realize significant cost savings, and scale our data platform as our business continues to grow. The primary component of this architecture is a multi-tenant Arrow Flight gRPC service for writing and querying Delta Tables. This service uses DataFusion for queries and Delta Lake Rust library for writes.
+- Architecting the next-generation data storage platform for Relativity's cloud products, which enables us to scale compute independently from cloud native storage, and leverage columnar storage for compression and higher throughput for OLAP and batch operations. This project enables Relativity to realize significant cost savings and scale our data platform as our business continues to grow. The primary component of this architecture is a multi-tenant Arrow Flight gRPC service for writing and querying Delta Tables. This service uses DataFusion for queries and Delta Lake Rust library for writes.
 - Contributing to open source projects in the Rust Delta Lake and Arrow ecosystem.
 - Built PySpark Kubernetes job for SVM training and inference to power successor to Relativity Active Learning.
 
