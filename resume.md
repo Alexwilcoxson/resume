@@ -13,14 +13,6 @@ output: pdf_document
 ### Software engineer with a background in cloud native distributed systems and emerging database technologies
 
 ## Skills
-```distributed systems```
-```databases```
-```eventing```
-```orchestration```
-```containers```
-```object storage```
-```performance```
-```devops```
 
 **Programming:** Rust, Python, C#  
 **Data Engineering:** Delta Lake, Parquet, Arrow, DataFusion, Spark, Kafka, SQL Server  
